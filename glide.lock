@@ -1,0 +1,8 @@
+hash: ae05997b364bd8d867d316eb96e1e6ac247b7bf39d90086fdec00e30572e5381
+updated: 2018-05-17T11:49:52.113693508+07:00
+imports:
+- name: github.com/kelseyhightower/envconfig
+  version: f611eb38b3875cc3bd991ca91c51d06446afa14c
+- name: k8s.io/client-go
+  version: 78700dec6369ba22221b72770783300f143df150
+testImports: []

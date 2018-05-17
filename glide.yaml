@@ -1,0 +1,6 @@
+package: github.com/dimasaryo/icecube
+import:
+- package: k8s.io/client-go
+  version: v6.0.0
+- package: github.com/kelseyhightower/envconfig
+  version: v1.3.0
